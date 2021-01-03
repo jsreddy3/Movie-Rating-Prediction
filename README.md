@@ -9,7 +9,7 @@
 - You will need RStudio. You can find some installation instructions [here](https://rstudio.com/products/rstudio/).
 
 ## Quick Notes
-- The RMD file also included in this repository is a full summary with visualization, analysis, and interpretation that was submitted and graded by the HarvardX Data Science Professional Certificate team.
+- The pdf file also included in this repository is a full summary with visualization, analysis, and interpretation that was submitted and graded by the HarvardX Data Science Professional Certificate team. It was created as a .RMD.
 
 ## Author
 @jsreddy3, or Jaiden Reddy! If you have questions, you can email me at jaidenreddy@gmail.com.
